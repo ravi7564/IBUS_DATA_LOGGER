@@ -22,7 +22,7 @@ A real-time, low-latency web dashboard to monitor RC Receiver channels (iBUS pro
 
 ## 🚀 Installation (PlatformIO)
 1. Install [PlatformIO](https://platformio.org/).
-2. Clone this repo: `git clone https://github.com/yourusername/project-name.git`
+2. Clone this repo: `git clone https://github.com/ravi7564/IBUS_DATA_LOGGER.git`
 3. Connect ESP32 and click **Upload**.
 4. Connect to WiFi: `ESP32-RC-Live` and open `192.168.4.1` in your browser.
 
