@@ -63,5 +63,3 @@ Move the transmitter sticks and watch the bars react in real-time!
 🛡️ Safety & Disclaimer
 Props Off: Always remove propellers from your drone or plane while testing on the bench.
 Signal Interference: For best results, keep the ESP32 away from high-power RF sources while testing.
-
-![RC Dashboard Screenshot](assets/dashboard.png)
