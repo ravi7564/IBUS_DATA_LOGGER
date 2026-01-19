@@ -1,5 +1,5 @@
 # ESP32 RC iBUS Live Monitor 🛰️
-![RC Dashboard Screenshot](IBUS_DATA_LOGGER/assets/dashboard.png)
+![RC Dashboard Screenshot](ibus_data_logger/assets/dashboard.png)
 
 A real-time, low-latency web dashboard to monitor RC Receiver channels (iBUS protocol) using ESP32 WebSockets.
 
