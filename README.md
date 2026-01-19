@@ -33,7 +33,6 @@ A real-time, low-latency web dashboard to monitor RC Receiver channels (iBUS pro
 ├── src/
 │   └── main.cpp        # Backend logic (WiFi, WebSockets, iBUS)
 ├── platformio.ini      # Library dependencies and environment config
-└── README.md
 
 🚀 Installation & Setup
 
